@@ -5,4 +5,39 @@
 ## Abstract
 
 
-#### *Key words: *. 
+#### Key words: 
+
+## Introduction
+
+
+## Problem Domain
+
+
+## Research Questions
+
+
+## The Dataset
+
+
+## Expected Implications
+
+
+## Expected Limitations
+
+
+## Findings
+**Not required for proposal**
+
+## Dicussion
+**Not required for proposal**
+
+## Conclusion
+**Not required for proposal
+
+## Ackowledgements
+**Not required for proposal
+
+## References
+
+
+## Apendix
