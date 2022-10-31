@@ -29,7 +29,7 @@ By analyzing this index rating globally from the 2000 to 2021, we will produce a
 *Global Hunger, Global Hunger Index, World Health Organization, nourishment, physical health and well-being, child mortality.*
 
 ## Introduction
-
+As the cost of living surges across American states and questions about food prices rise, more people discover the feeling of food insecurity. Hunger is a term that owns different meanings to different people based on their relationship to food insecurity and socio-economic aspects, but as defined by the Oxford dictionary or Holben (pp. 1) hunger is defined as a condition that is ***painful*** emanating from lack of food. According to recent statistics by the Food and Agriculture Organization (FAO), there are about *925,000,000* people in the world who are considered hungry, suffering in pain. Hunger is a serious condition and with the context in mind, this research will focus on the problem of world hunger, statistics, and its impacts.
 
 ## Problem Domain
 
