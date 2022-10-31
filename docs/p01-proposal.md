@@ -44,7 +44,7 @@ As the cost of living surges across American states and questions about food pri
 
 
 ## Expected Limitations
-
+Since our data does not provide a solution in itself, we will be limited to providing the data so that researchers with more domain experience in agriculture and economics may one day provide solutions and source us. Our data is also based on a metric system that may translate poorly into the experience of humans, since quantifying feelings is very difficult. Our data is also limited to the variables of the GHI, body weight, and stunting. We would like to acknowledge that this data set is not a total encompassing visualization of all the variables that contribute to hunger, and therefore may lack contextual clues and information important for analysis and worldly application.
 
 ## Findings
 **Not required for proposal**
