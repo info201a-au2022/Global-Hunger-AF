@@ -16,9 +16,17 @@ The four key indicators of this are:
 * Child stunting 
 * Child mortality (rate of children under the age of five)     
 
+Scores are then categorized in a 1-100 scale, in the following way:  
+* Extremely alarming: 50+
+* Alarming: 35 to 50
+* Serious: 20 to 35
+* Moderate: 10 to 20
+* Low: below 10
 
+By analyzing this index rating globally from the 2000 to 2021, we will produce a visualization of the most alarming countries currently, as well as visualizations of hunger trends across the world.
 
-#### Key words: 
+#### Key words:
+*Global Hunger, Global Hunger Index, World Health Organization, nourishment, physical health and well-being, child mortality.
 
 ## Introduction
 
