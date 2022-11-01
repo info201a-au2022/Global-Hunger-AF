@@ -49,12 +49,17 @@ The indirect stakeholders would benefit from this since they might not have to f
 
 ## Research Questions
 * Where is the highest concentration of Global Hunger Index countries?
+
 This question is  important because we need to know what causes the high global hunger index and how we can improve it.
 We can use the dataset to find the country.
+
 * What is the lowest concentration of Global Hunger Index countries?
+
 This question is also important because we can compare these countries to those that have a high concentration of global hunger index.
 We can use the dataset to find the country
+
 * What type of environments are more prone to high Global Hunger Index?
+
 This question helps us to determine what type of environment may cost a higher Global Hunger Index.
 We can compare the environments of the high concentration GHI countries to see if there is a specific type of environment that will cause the high Global Hunger Index.
 
