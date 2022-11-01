@@ -36,7 +36,7 @@ Having a diet which is both sufficient in terms of energy requirements and diver
 
 #### Direct and indirect Stakeholders
 
-* Direct Stakeholders are the United Nations and governments.They can find out how many people are undernourished; where they live; childhood undernourishment; and food insecurity across the world by looking at this dataset. They can also use it for international ranking.
+* Direct Stakeholders are the United Nations and governments.They can find out how many people are undernourished or facing hunger problem; where they live; and food insecurity by looking at this dataset. They can also use it for international ranking.
 * Indirect Stakeholders are the people who are affected by the Global Hunger Index. They are not directly involved in the data but they are related to the Global Hunger Index. Their lives may be affected by hunger. 
 
 
