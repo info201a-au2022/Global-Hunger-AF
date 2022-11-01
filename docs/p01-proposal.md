@@ -56,12 +56,12 @@ We can use the dataset to find the country.
 * What is the lowest concentration of Global Hunger Index countries?
 
 This question is also important because we can compare these countries to those that have a high concentration of global hunger index.
-We can use the dataset to find the country
+We can use the dataset to find the country. This question allows us to compare the statistics of low GHI countries to high GHI countries to brainstorm solutions. It also allows us to create a dispersion model to visualize the geography of GHI.
 
 * What type of environments are more prone to high Global Hunger Index?
 
 This question helps us to determine what type of environment may cost a higher Global Hunger Index.
-We can compare the environments of the high concentration GHI countries to see if there is a specific type of environment that will cause the high Global Hunger Index.
+We can compare the environments of the high concentration GHI countries to see if there is a specific type of environment that will cause the high Global Hunger Index. This could in turn help us create solutions toward a model country instead of singular countries, so the solution can help many countries.
 
 
 ## The Dataset
