@@ -40,10 +40,10 @@ Having a diet which is both sufficient in terms of energy requirements and diver
 * Indirect Stakeholders are the people who are affected by the Global Hunger Index. They are not directly involved in the data but they are related to the Global Hunger Index. Their lives may be affected by hunger. 
 
 
-####Human Values
+#### Human Values
 Hunger is one of the world's major problems. The most challenging part is that it can be passed from generation to generation. The children of impoverished parents are often born underweight and are less resistant to disease; they grow up under conditions that impair their intellectual capacity for their whole lives.
 
-####Benefits and harms
+#### Benefits and harms
 The indirect stakeholders would benefit from this since they might not have to face hunger anymore. The direct stakeholders would be harmed by this because they might need to sustain the funding in order to help improve global hunger
 
 
